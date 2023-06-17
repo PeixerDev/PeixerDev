@@ -7,7 +7,7 @@
 
 ### Hey there 👋,
 
-I'm Filipe
+Hello, I'm Filipe, a Full-Stack developer focused on the Front-End area. On this GitHub you will find several projects that I have already produced, and you will be able to better understand how I create my applications and how I code themselves. Hope you like it!
 </ul>
 </ul>
 
