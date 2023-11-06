@@ -5,9 +5,9 @@
 
 
 
-### Hey there 👋,
+### Olá!
 
-Hello, I'm Filipe, a Full-Stack developer focused on the Front-End area. On this GitHub you will find several projects that I have already produced, and you will be able to better understand how I create my applications and how I code themselves. Hope you like it!
+Olá, sou o Filipe, desenvolvedor Full-Stack focado na área Front-End. Neste GitHub você encontrará diversos projetos que já produzi, e poderá entender melhor como eu crio minhas aplicações e como eu as codifico. Espero que você goste!
 </ul>
 </ul>
 
